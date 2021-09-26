@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <!--- 💬 Ask me about ...-->
 - 📫 How to reach me: eduardo.lobo@ieee.org
 - 📓 Portfolio: https://sirlobardo.github.io/portfolio/
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Linux is better
 
 <div>
