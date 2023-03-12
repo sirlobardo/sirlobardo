@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C, git/github, python
 <!--- 💬 Ask me about ...-->
 - 📫 How to reach me: edultf2@gmail.com
-- 📓 Portfolio: https://sirlobardo.github.io/portfolio/
+- 📓 Portfolio: https://sirlobardo.github.io/index.html/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Linux is better
 
