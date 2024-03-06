@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: edultf2@gmail.com
 - 📓 Portfolio: https://sirlobardo.github.io/index.html/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Linux is better
+- ⚡ Fun fact: Linux is the best
 
 
