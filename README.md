@@ -1,15 +1,14 @@
-## 👋👋 Hello World! I 'm Eduardo Lôbo also known Lobardo hehehee 😁😁😁
+## Hi, I'm Eduardo 👋
 
-<!--
-**sirlobardo/sirlobardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical & Electronics Engineering student @ SENAI CIMATEC  
+🔐 Industrial Cybersecurity Researcher (ICS / OT)  
+🧠 Focused on low-level systems, malware analysis and industrial networks
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently studying in Faculdade de Tecnologia Senai CIMATEC
-- 🌱 I’m currently learning C, git/github, python
-<!--- 💬 Ask me about ...-->
-- 📫 How to reach me: edultf2@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Linux is the best
+- Research in **industrial cybersecurity** and **Industry 4.0**
+- Hands-on experience with **PLC security**, **Modbus TCP**, and **DDoS PoCs**
+- Programming in **Python, C/C++ and Assembly**
+- Linux user with experience in **embedded systems**
+- Tools: Wireshark, Nmap
 
-
+📄 Lattes: http://lattes.cnpq.br/1977523249778238  
+💼 LinkedIn: https://www.linkedin.com/in/eduardo-lôbo-teixeira-filho-8a4b961b3
